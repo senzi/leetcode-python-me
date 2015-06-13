@@ -1,6 +1,6 @@
 __author__ = 'sen'
 
-nums = [1,1,2]
+nums = []
 def removeDuplicates(nums):
     i = 0
     while(i+1<=len(nums)-1):
