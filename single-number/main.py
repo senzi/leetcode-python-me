@@ -15,3 +15,5 @@ def singleNumber(nums):
             i = i+2
 
 print singleNumber(nums)
+
+print  0^5
